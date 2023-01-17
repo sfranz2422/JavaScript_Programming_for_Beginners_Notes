@@ -54,7 +54,9 @@ myVar = 5;
 First, this code creates a variable named myVar. Then, the code assigns 5 to myVar. Now, if myVar appears again in the code, the program will treat it as if it is 5.
 
 # Exercise
-Assign the value 7 to variable a.```js
+Assign the value 7 to variable a.
+
+```js
 
 // Setup
 var a;
@@ -521,6 +523,11 @@ b = b / 4;
 c = c / 11;
 
 ```
+
+# Let Var Const
+
+https://www.educative.io/answers/difference-between-var-let-and-const-keyword-in-javascript?utm_campaign=brand_educative&utm_source=google&utm_medium=ppc&utm_content=performance_max&eid=5082902844932096&utm_term=&utm_campaign=%5BNew%5D+Performance+Max&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=18511913007&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAq5meBhCyARIsAJrtdr4w4d04M8bdcb_cuhpFmDt4PD0qKr3APbxzs6lyevtBM1yNSAI5vKYaAmQlEALw_wcB
+
 
 
 
